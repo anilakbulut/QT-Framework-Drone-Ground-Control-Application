@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UI/ui.png</file>
+        <file>UI/window.qml</file>
+        <file>UI/Marker.qml</file>
+        <file>UI/Line.qml</file>
+        <file>UI/button.png</file>
+    </qresource>
+</RCC>
